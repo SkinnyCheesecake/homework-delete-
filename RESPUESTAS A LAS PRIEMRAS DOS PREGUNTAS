@@ -1,0 +1,10 @@
+##RESPUESTAS A LAS PRIEMRAS DOS PREGUNTAS
+
+En un proyecto de minería de datos, se estima que la fase de preprocesamiento y limpieza consume aproximadamente el 80% del tiempo total
+del proceso. Desde una perspectiva analítica, ¿cuál es la justificación principal para invertir este nivel de esfuerzo antes de aplicar cualquier algoritmo de extracción de conocimiento?
+    -Los datos del &quot;mundo real&quot; suelencontener ruido e imperfecciones que, de no ser corregidos o eliminados, pueden sesgar
+    los resultados y generar patrones inválidos. 
+
+
+Una empresa de logística observa que sus costos operativos fluctúanmensualmente. Para mejorar su eficiencia, el equipo de datos decide realizar un análisis bivariable comparando los costos con el precio del combustible. ¿Qué ventaja estratégica ofrece este enfoque frente a un análisis univariable de los mismos costos?
+    -El análisis bivariable permite modelar la relación entre dos variables (independiente y dependiente), facilitando la predicción de escenarios futuros basada en factores externos. 
