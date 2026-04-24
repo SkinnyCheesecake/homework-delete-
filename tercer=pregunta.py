@@ -13,7 +13,7 @@ def analisis_bivariable_estudiante(num_lista, n_muestras):
     calificacion = np.clip(calificacion, 0, 100)
     df = pd.DataFrame({
         'Horas_Estudio': horas_estudio,
-        'calificacion': calificacion
+        'Calificacion': calificacion
     })
     correlacion = df['Horas_Estudio'].corr(df['Calificacion'])
     print(f"--- Analisis para el alumno #{num_lista} ---")
